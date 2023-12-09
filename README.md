@@ -23,6 +23,7 @@
 
 ## 💁🏻 Contact me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kreel9402@gmail.com)](kreel9402@gmail.com)
+<a href=https://velog.io/@seokhoho/> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@seokhoho/"> </a>
 
 ## 🏃‍♂️ Performance
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kreel94)](https://solved.ac/kreel94/)
